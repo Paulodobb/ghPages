@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my Generic GitHub Pages
+
+Used only to deploy static pages to direct calling, maybe out of GitHub.
+
+Over this point you wil see the GitHub default content.
 
 You can use the [editor on GitHub](https://github.com/Paulodobb/ghPages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
